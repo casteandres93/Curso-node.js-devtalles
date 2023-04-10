@@ -1,0 +1,24 @@
+{
+  "name": "curso-node.js-devtalles",
+  "version": "0.0.1",
+  "description": "Aprendiendo node.js",
+  "main": "4. bases-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casteandres93/Curso-node.js-devtalles.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "javascript"
+  ],
+  "author": "Andres Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casteandres93/Curso-node.js-devtalles/issues"
+  },
+  "homepage": "https://github.com/casteandres93/Curso-node.js-devtalles#readme"
+}
